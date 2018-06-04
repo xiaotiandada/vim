@@ -1,0 +1,5 @@
+
+hopopt	0	HOPOPT		# IPv6 Hop-by-Hop Option [RFC1883]
+icmp	1	ICMP		# internet control message protocol
+igmp	2	IGMP		# Internet Group Management
+hmp	20	HMP	
